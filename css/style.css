@@ -1,0 +1,17 @@
+main{
+    background-color: #24353F;
+    min-height: 100vh;
+}
+.data{
+    background-color: #273a45;
+
+}
+input{
+    background-color:#273a45 !important;
+}
+a:hover{
+    text-decoration-line: underline !important;
+}
+.data-home{
+    transform: translatey(100%);
+}
